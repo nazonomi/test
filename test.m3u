@@ -2,11 +2,7 @@
 
 #kaitekitv
 
-#EXTINF:-1 group-title="Kanto" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG東京(kaitekitv)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG大阪(kaitekitv)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 #EXTINF:-1 group-title="Kanto" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHKE東京(kaitekitv)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
@@ -21,7 +17,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 #EXTINF:-1 group-title="Kanto" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", テレビ朝日(kaitekitv)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd00
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC(kaitekitv)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
