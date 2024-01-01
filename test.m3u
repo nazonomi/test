@@ -2,7 +2,11 @@
 
 #kaitekitv
 
+#EXTINF:-1 group-title="Kanto" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG東京(kaitekitv)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 
+#EXTINF:-1 group-title="Kansai" tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG大阪(kaitekitv)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 #EXTINF:-1 group-title="Kanto" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHKE東京(kaitekitv)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
