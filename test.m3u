@@ -694,3 +694,8 @@ http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
 http://jp.vthanhnetwork.com/BS11/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 http://jp.vthanhnetwork.com/AT-X/index.m3u8
+
+#2024/1/26
+
+#EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV
+http://for-testonly.ra1n.lol/ishikawatv/index.m3u8
