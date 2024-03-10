@@ -768,6 +768,14 @@ http://for-testonly.ra1n.lol/ntv2/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png",TSB
 http://for-testonly.ra1n.lol/TSB/index.m3u8
 
+#2024/3/10
+
+#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ
+http://for-testonly.ra1n.lol/tvq/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12
+http://for-testonly.ra1n.lol/bs12/index.m3u8
+
 #YouTube LIVE
 
 #EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
