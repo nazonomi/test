@@ -850,3 +850,100 @@ https://ythls-v2.onrender.com/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="ishikawatv", 石川テレビ(YouTube LIVE)
 https://ythls.armelin.one/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
+
+#pipe.ra1n.lol
+
+#EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
+https://pipe.ra1n.lol/nhkg/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G
+https://pipe.ra1n.lol/nhkg2/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+https://pipe.ra1n.lol/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+https://pipe.ra1n.lol/nhke/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E
+https://pipe.ra1n.lol/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+https://pipe.ra1n.lol/ntv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+https://pipe.ra1n.lol/ntv2/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+https://pipe.ra1n.lol/NTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+https://pipe.ra1n.lol/ex/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+https://pipe.ra1n.lol/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+https://pipe.ra1n.lol/tbs/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+https://pipe.ra1n.lol/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+https://pipe.ra1n.lol/tx/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+https://pipe.ra1n.lol/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+https://pipe.ra1n.lol/fujitv/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+https://pipe.ra1n.lol/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+https://pipe.ra1n.lol/mx1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+https://pipe.ra1n.lol/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tochigi" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Tochigi TV
+https://pipe.ra1n.lol/TochigiTV/index.m3u8
+#EXTINF:-1 group-title="Aichi" tvg-id="cbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png",CBC
+https://pipe.ra1n.lol/CBC/index.m3u8
+#EXTINF:-1 group-title="Nagano" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Nagano
+https://pipe.ra1n.lol/NHKG-Nagano/index.m3u8
+#EXTINF:-1 group-title="Nagano" tvg-id="nbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nbs_logo.svg/1920px-Nbs_logo.svg.png", NBS
+https://pipe.ra1n.lol/NBS/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC
+https://pipe.ra1n.lol/RCC/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E Kagoshima
+https://pipe.ra1n.lol/NHKE-Kagoshima/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E Fukui
+https://pipe.ra1n.lol/NHKE-Fukui/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/2560px-Tvh_logo.svg.png", TVh
+https://pipe.ra1n.lol/tvh/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="uhb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uhb_logo.svg/768px-Uhb_logo.svg.png?20150807092239", UHB
+https://pipe.ra1n.lol/uhb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="TeNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/2560px-Teny_logo.svg.png", TeNY
+https://pipe.ra1n.lol/TeNY/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="SBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1280px-Sbc_logo.svg.png", SBC
+https://pipe.ra1n.lol/SBC/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV
+https://pipe.ra1n.lol/chibatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/2560px-Tvk_logo.svg.png", tvk
+https://pipe.ra1n.lol/tvk/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", test
+https://pipe.ra1n.lol/testrip/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS
+https://pipe.ra1n.lol/sagatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nagoyatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nagoya_Nbn_logo.svg/2560px-Nagoya_Nbn_logo.svg.png", Nagoya TV
+https://pipe.ra1n.lol/nagoyatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fbs_logo.svg/2560px-Fbs_logo.svg.png", FBS
+https://pipe.ra1n.lol/fbs/index.m3u8
+#EXTINF:-1 group-title="Test", test
+https://pipe.ra1n.lol/test/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
+https://pipe.ra1n.lol/teletama/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokiatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tokai_Television_Broadcasting_logo.png", Tokai TV
+https://pipe.ra1n.lol/tokaitv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bss_logo.svg/2560px-Bss_logo.svg.png", BSS Sanin
+https://pipe.ra1n.lol/bss/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="home" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png", HOME
+https://pipe.ra1n.lol/home/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rkb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RKB_Mainichi_Broadcasting_logo_2005.svg/2560px-RKB_Mainichi_Broadcasting_logo_2005.svg.png", rkb
+https://pipe.ra1n.lol/rkb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV
+https://pipe.ra1n.lol/daiichi-tv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV
+https://pipe.ra1n.lol/ishikawatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", Fukushima Central Television
+https://pipe.ra1n.lol/fct/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png",TSB
+https://pipe.ra1n.lol/TSB/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ
+https://pipe.ra1n.lol/tvq/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12
+https://pipe.ra1n.lol/bs12/index.m3u8
