@@ -825,6 +825,11 @@ https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV
 https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 
+#2024/4/1
+
+#EXTINF:-1 group-title="Test" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png", Dlife
+http://pipe.ra1n.lol/dlife/index.m3u8
+
 #YouTube LIVE
 
 #EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
