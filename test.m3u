@@ -981,9 +981,9 @@ http://vdo.itvlive.net:8080/TOKYO/tracks-v1a1/mono.m3u8
 http://s9.itvlive.net:8080/TOKYO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Osaka" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS(vdo)
-http://vdo.itvlive.net:8080/KansaiTV/tracks-v1a1/mono.m3u8
+http://vdo.itvlive.net:8080/MBS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Osaka" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS(s9)
-http://s9.itvlive.net:8080/KansaiTV/tracks-v1a1/mono.m3u8
+http://s9.itvlive.net:8080/MBS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC(vdo)
 http://vdo.itvlive.net:8080/ABC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC(s9)
