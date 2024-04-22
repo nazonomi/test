@@ -830,6 +830,24 @@ https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png", Dlife
 http://pipe.ra1n.lol/dlife/index.m3u8
 
+#2024/4/22
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG
+http://118.71.66.141:8080/NHKG/index.fmp4.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHKE
+http://118.71.66.141:8080/NHKE/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+http://118.71.66.141:8080/nippon/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+http://118.71.66.141:8080/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji
+http://118.71.66.141:8080/FUJI/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TVAsahi
+http://118.71.66.141:8080/ASAHI/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TVTokyo
+http://118.71.66.141:8080/TOKYO/index.m3u8
+#Tokyo3
+
 #YouTube LIVE
 
 #EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
@@ -951,7 +969,7 @@ https://pipe.ra1n.lol/TSB/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ
 https://pipe.ra1n.lol/tvq/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png", BS12
-https://pipe.ra1n.lol/bs12/index.m3u8
+https://pipe.ra1n.lol/bs12/index.m3u
 
 #test
 
