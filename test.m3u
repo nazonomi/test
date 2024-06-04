@@ -1437,3 +1437,684 @@ http://171.244.62.178/jptv2/get.php?id=kKx57kaG4Tz9tOTiLx8exA==
 http://171.244.62.178/jptv2/get.php?id=3aoWlvySJvrMYkUxn_QO-g==
 #EXTINF:-1 group-title="CS" tvg-id="sukachan1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sukachan-1-jp.png", Sukachan1
 http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
+
+#csui djtmewibu
+
+#EXTINF:-1 group-title="Test", HBC
+http://csui.djtmewibu.com/hbc/index.m3u8
+#EXTINF:-1 group-title="Test", HBC
+http://csui.djtmewibu.com/HBC/index.m3u8
+#EXTINF:-1 group-title="Test", STV
+http://csui.djtmewibu.com/stv/index.m3u8
+#EXTINF:-1 group-title="Test", STV
+http://csui.djtmewibu.com/STV/index.m3u8
+#EXTINF:-1 group-title="Test", HTB
+http://csui.djtmewibu.com/htb/index.m3u8
+#EXTINF:-1 group-title="Test", HTB
+http://csui.djtmewibu.com/HTB/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/2560px-Tvh_logo.svg.png", TVh(○)
+http://csui.djtmewibu.com/tvh/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tvh_logo.svg/2560px-Tvh_logo.svg.png", TVh
+http://csui.djtmewibu.com/TVh/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="uhb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uhb_logo.svg/768px-Uhb_logo.svg.png?20150807092239", UHB(○)
+http://csui.djtmewibu.com/uhb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="uhb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uhb_logo.svg/768px-Uhb_logo.svg.png?20150807092239", UHB
+http://csui.djtmewibu.com/UHB/index.m3u8
+
+#EXTINF:-1 group-title="Test", RAB
+http://csui.djtmewibu.com/rab/index.m3u8
+#EXTINF:-1 group-title="Test", RAB
+http://csui.djtmewibu.com/RAB/index.m3u8
+#EXTINF:-1 group-title="Test", ABA
+http://csui.djtmewibu.com/aba/index.m3u8
+#EXTINF:-1 group-title="Test", ABA
+http://csui.djtmewibu.com/ABA/index.m3u8
+#EXTINF:-1 group-title="Test", ATV
+http://csui.djtmewibu.com/atv/index.m3u8
+#EXTINF:-1 group-title="Test", ATV
+http://csui.djtmewibu.com/ATV/index.m3u8
+
+#EXTINF:-1 group-title="Test", TVI
+http://csui.djtmewibu.com/tviwate/index.m3u8
+#EXTINF:-1 group-title="Test", TVI
+http://csui.djtmewibu.com/TVIWATE/index.m3u8
+#EXTINF:-1 group-title="Test", TVI
+http://csui.djtmewibu.com/tvi/index.m3u8
+#EXTINF:-1 group-title="Test", TVI
+http://csui.djtmewibu.com/TVI/index.m3u8
+#EXTINF:-1 group-title="Test", IAT
+http://csui.djtmewibu.com/iat/index.m3u8
+#EXTINF:-1 group-title="Test", IAT
+http://csui.djtmewibu.com/IAT/index.m3u8
+#EXTINF:-1 group-title="Test", IBC
+http://csui.djtmewibu.com/ibc/index.m3u8
+#EXTINF:-1 group-title="Test", IBC
+http://csui.djtmewibu.com/IBC/index.m3u8
+#EXTINF:-1 group-title="Test", Menkoi TV
+http://csui.djtmewibu.com/iwatemenkoitv/index.m3u8
+#EXTINF:-1 group-title="Test", Menkoi TV
+http://csui.djtmewibu.com/IWATEMENKOITV/index.m3u8
+#EXTINF:-1 group-title="Test", Menkoi TV
+http://csui.djtmewibu.com/menkoitv/index.m3u8
+#EXTINF:-1 group-title="Test", Menkoi TV
+http://csui.djtmewibu.com/MenkoiTV/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="tbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/TBC_logo_%282020%29.svg/1920px-TBC_logo_%282020%29.svg.png", TBC(○)
+http://csui.djtmewibu.com/tbc/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/TBC_logo_%282020%29.svg/1920px-TBC_logo_%282020%29.svg.png", TBC
+http://csui.djtmewibu.com/TBC/index.m3u8
+#EXTINF:-1 group-title="Test", Miyagi TV
+http://csui.djtmewibu.com/miyagitv/index.m3u8
+#EXTINF:-1 group-title="Test", Miyagi TV
+http://csui.djtmewibu.com/MiyagiTV/index.m3u8
+#EXTINF:-1 group-title="Test", Miyagi TV
+http://csui.djtmewibu.com/mmt/index.m3u8
+#EXTINF:-1 group-title="Test", Miyagi TV
+http://csui.djtmewibu.com/MMT/index.m3u8
+#EXTINF:-1 group-title="Test", khb
+http://csui.djtmewibu.com/khb/index.m3u8
+#EXTINF:-1 group-title="Test", khb
+http://csui.djtmewibu.com/KHB/index.m3u8
+#EXTINF:-1 group-title="Test", Sendai Hoso
+http://csui.djtmewibu.com/ox/index.m3u8
+#EXTINF:-1 group-title="Test", Sendai Hoso
+http://csui.djtmewibu.com/OX/index.m3u8
+
+#EXTINF:-1 group-title="Test", ABS
+http://csui.djtmewibu.com/abs/index.m3u8
+#EXTINF:-1 group-title="Test", ABS
+http://csui.djtmewibu.com/ABS/index.m3u8
+#EXTINF:-1 group-title="Test", AAB
+http://csui.djtmewibu.com/aab/index.m3u8
+#EXTINF:-1 group-title="Test", AAB
+http://csui.djtmewibu.com/AAB/index.m3u8
+#EXTINF:-1 group-title="Test", AKT
+http://csui.djtmewibu.com/akt/index.m3u8
+#EXTINF:-1 group-title="Test", AKT
+http://csui.djtmewibu.com/AKT/index.m3u8
+#EXTINF:-1 group-title="Test", AKT
+http://csui.djtmewibu.com/akitatv/index.m3u8
+#EXTINF:-1 group-title="Test", AKT
+http://csui.djtmewibu.com/AkitaTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", YBC
+http://csui.djtmewibu.com/ybc/index.m3u8
+#EXTINF:-1 group-title="Test", YBC
+http://csui.djtmewibu.com/YBC/index.m3u8
+#EXTINF:-1 group-title="Test", YTS
+http://csui.djtmewibu.com/yts/index.m3u8
+#EXTINF:-1 group-title="Test", YTS
+http://csui.djtmewibu.com/YTS/index.m3u8
+#EXTINF:-1 group-title="Test", YTS
+http://csui.djtmewibu.com/yamagatatv/index.m3u8
+#EXTINF:-1 group-title="Test", YTS
+http://csui.djtmewibu.com/YamagataTV/index.m3u8
+#EXTINF:-1 group-title="Test", TUY
+http://csui.djtmewibu.com/tuy/index.m3u8
+#EXTINF:-1 group-title="Test", TUY
+http://csui.djtmewibu.com/TUY/index.m3u8
+#EXTINF:-1 group-title="Test", SAY
+http://csui.djtmewibu.com/say/index.m3u8
+#EXTINF:-1 group-title="Test", SAY
+http://csui.djtmewibu.com/SAY/index.m3u8
+#EXTINF:-1 group-title="Test", SAY
+http://csui.djtmewibu.com/sakuranbotv/index.m3u8
+#EXTINF:-1 group-title="Test", SAY
+http://csui.djtmewibu.com/SakuranboTV/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="fct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", FCT(○)
+http://csui.djtmewibu.com/fct/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fct" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FCT_2020_logo.svg/1920px-FCT_2020_logo.svg.png", FCT
+http://csui.djtmewibu.com/FCT/index.m3u8
+#EXTINF:-1 group-title="Test", KFB
+http://csui.djtmewibu.com/kfb/index.m3u8
+#EXTINF:-1 group-title="Test", KFB
+http://csui.djtmewibu.com/KFB/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF(○)
+http://csui.djtmewibu.com/tuf/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png", TUF
+http://csui.djtmewibu.com/TUF/index.m3u8
+#EXTINF:-1 group-title="Test", FTV
+http://csui.djtmewibu.com/ftv/index.m3u8
+#EXTINF:-1 group-title="Test", FTV
+http://csui.djtmewibu.com/FTV/index.m3u8
+#EXTINF:-1 group-title="Test", FTV
+http://csui.djtmewibu.com/fukushimatv/index.m3u8
+#EXTINF:-1 group-title="Test", FTV
+http://csui.djtmewibu.com/FukushimaTV/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG(○)
+http://csui.djtmewibu.com/nhkg/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG(○)
+http://csui.djtmewibu.com/nhkg2/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG 
+http://csui.djtmewibu.com/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHKE
+http://csui.djtmewibu.com/nhke/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHKE
+http://csui.djtmewibu.com/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+http://csui.djtmewibu.com/ntv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+http://csui.djtmewibu.com/ntv2/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV
+http://csui.djtmewibu.com/NTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+http://csui.djtmewibu.com/ex/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi
+http://csui.djtmewibu.com/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+http://csui.djtmewibu.com/tbs/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+http://csui.djtmewibu.com/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://csui.djtmewibu.com/tx/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
+http://csui.djtmewibu.com/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+http://csui.djtmewibu.com/fujitv/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV
+http://csui.djtmewibu.com/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://csui.djtmewibu.com/mx1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
+http://csui.djtmewibu.com/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", Tokyo MX2(○)
+http://csui.djtmewibu.com/mx2/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/2560px-Tvk_logo.svg.png", tvk(○)
+http://csui.djtmewibu.com/tvk/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV(○)
+http://csui.djtmewibu.com/chibatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="chibatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg", Chiba TV
+http://csui.djtmewibu.com/ctc/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvsaitama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS(○)
+http://csui.djtmewibu.com/tvs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
+http://csui.djtmewibu.com/teletama/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
+http://csui.djtmewibu.com/tvsaitama/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Tochigi TV
+http://csui.djtmewibu.com/tochigitv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Tochigi TV
+http://csui.djtmewibu.com/TochigiTV/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Gunma TV
+http://csui.djtmewibu.com/gunmatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Gunma TV
+http://csui.djtmewibu.com/GunmaTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Gunma TV
+http://csui.djtmewibu.com/gtv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tochigitv" tvg-logo="https://www.tochigi-tv.jp/common_re/img/logo.png", Gunma TV
+http://csui.djtmewibu.com/GTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", YBS
+http://csui.djtmewibu.com/ybs/index.m3u8
+#EXTINF:-1 group-title="Test", YBS
+http://csui.djtmewibu.com/YBS/index.m3u8
+#EXTINF:-1 group-title="Test", UTY
+http://csui.djtmewibu.com/uty/index.m3u8
+#EXTINF:-1 group-title="Test", UTY
+http://csui.djtmewibu.com/UTY/index.m3u8
+#EXTINF:-1 group-title="Test", UTY
+http://csui.djtmewibu.com/tvyamanashi/index.m3u8
+#EXTINF:-1 group-title="Test", UTY
+http://csui.djtmewibu.com/TVYamanashi/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG Nagano(○)
+http://csui.djtmewibu.com/NHKG-Nagano/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png", TSB
+http://csui.djtmewibu.com/tsb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tsb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tsb_logo_ja.svg/170px-Tsb_logo_ja.svg.png", TSB(○)
+http://csui.djtmewibu.com/TSB/index.m3u8
+#EXTINF:-1 group-title="Test", abn
+http://csui.djtmewibu.com/abn/index.m3u8
+#EXTINF:-1 group-title="Test", abn
+http://csui.djtmewibu.com/ABN/index.m3u8
+#EXTINF:-1 group-title="Test", SBC
+http://csui.djtmewibu.com/sbc/index.m3u8
+#EXTINF:-1 group-title="Test", SBC
+http://csui.djtmewibu.com/SBC/index.m3u8
+#EXTINF:-1 group-title="Test", NBS
+http://csui.djtmewibu.com/nbs/index.m3u8
+#EXTINF:-1 group-title="Test", NBS
+http://csui.djtmewibu.com/NBS/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/300px-Teny_logo.svg.png", TeNY(○)
+http://csui.djtmewibu.com/teny/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="TeNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/2560px-Teny_logo.svg.png", TeNY
+http://csui.djtmewibu.com/TeNY/index.m3u8
+#EXTINF:-1 group-title="Test", UX
+http://csui.djtmewibu.com/ux/index.m3u8
+#EXTINF:-1 group-title="Test", UX
+http://csui.djtmewibu.com/UX/index.m3u8
+#EXTINF:-1 group-title="Test", UX
+http://csui.djtmewibu.com/ux21/index.m3u8
+#EXTINF:-1 group-title="Test", UX
+http://csui.djtmewibu.com/UX21/index.m3u8
+#EXTINF:-1 group-title="Test", BSN
+http://csui.djtmewibu.com/bsn/index.m3u8
+#EXTINF:-1 group-title="Test", BSN
+http://csui.djtmewibu.com/BSN/index.m3u8
+#EXTINF:-1 group-title="Test", NST
+http://csui.djtmewibu.com/nst/index.m3u8
+#EXTINF:-1 group-title="Test", NST
+http://csui.djtmewibu.com/NST/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="tokiatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tokai_Television_Broadcasting_logo.png", Tokai TV(○)
+http://csui.djtmewibu.com/tokaitv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tokiatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Tokai_Television_Broadcasting_logo.png", Tokai TV
+http://csui.djtmewibu.com/TokaiTV/index.m3u8
+#EXTINF:-1 group-title="Test", Chukyo TV
+http://csui.djtmewibu.com/ctv/index.m3u8
+#EXTINF:-1 group-title="Test", Chukyo TV
+http://csui.djtmewibu.com/CTV/index.m3u8
+#EXTINF:-1 group-title="Test", Chukyo TV
+http://csui.djtmewibu.com/chukyotv/index.m3u8
+#EXTINF:-1 group-title="Test", Chukyo TV
+http://csui.djtmewibu.com/ChukyoTV/index.m3u8
+#EXTINF:-1 group-title="Aichi" tvg-id="cbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png", CBC
+http://csui.djtmewibu.com/cbc/index.m3u8
+#EXTINF:-1 group-title="Aichi" tvg-id="cbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chubu-Nippon_Broadcasting_logo_20150825.svg/1920px-Chubu-Nippon_Broadcasting_logo_20150825.svg.png", CBC(○)
+http://csui.djtmewibu.com/CBC/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nagoyatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nagoya_Nbn_logo.svg/2560px-Nagoya_Nbn_logo.svg.png", Nagoya TV(○)
+http://csui.djtmewibu.com/nagoyatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="nagoyatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nagoya_Nbn_logo.svg/2560px-Nagoya_Nbn_logo.svg.png", Nagoya TV
+http://csui.djtmewibu.com/NagoyaTV/index.m3u8
+#EXTINF:-1 group-title="Test", TV Aichi
+http://csui.djtmewibu.com/tvaichi/index.m3u8
+#EXTINF:-1 group-title="Test", TV Aichi
+http://csui.djtmewibu.com/TVAichi/index.m3u8
+#EXTINF:-1 group-title="Test", TV Aichi
+http://csui.djtmewibu.com/tva/index.m3u8
+#EXTINF:-1 group-title="Test", TV Aichi
+http://csui.djtmewibu.com/TVA/index.m3u8
+#EXTINF:-1 group-title="Test", Mie TV
+http://csui.djtmewibu.com/mietv/index.m3u8
+#EXTINF:-1 group-title="Test", Mie TV
+http://csui.djtmewibu.com/MieTV/index.m3u8
+#EXTINF:-1 group-title="Test", Gifuchan
+http://csui.djtmewibu.com/gifuchan/index.m3u8
+#EXTINF:-1 group-title="Test", Gifuchan
+http://csui.djtmewibu.com/Gifuchan/index.m3u8
+
+#EXTINF:-1 group-title="Test", TV Kanazawa
+http://csui.djtmewibu.com/tvkanazawa/index.m3u8
+#EXTINF:-1 group-title="Test", TV Kanazawa
+http://csui.djtmewibu.com/TVKanazawa/index.m3u8
+#EXTINF:-1 group-title="Test", HAB
+http://csui.djtmewibu.com/hab/index.m3u8
+#EXTINF:-1 group-title="Test", HAB
+http://csui.djtmewibu.com/HAB/index.m3u8
+#EXTINF:-1 group-title="Test", MRO
+http://csui.djtmewibu.com/mro/index.m3u8
+#EXTINF:-1 group-title="Test", MRO
+http://csui.djtmewibu.com/MRO/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV(○)
+http://csui.djtmewibu.com/ishikawatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="ishikawatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Itc_logo.svg/1920px-Itc_logo.svg.png", Ishikawa TV
+http://csui.djtmewibu.com/IshikawaTV/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV(○)
+http://csui.djtmewibu.com/daiichi-tv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV
+http://csui.djtmewibu.com/Daiichi-TV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV
+http://csui.djtmewibu.com/daiichitv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="daiichi-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Daiichi_tv_logo.svg/2560px-Daiichi_tv_logo.svg.pngting_logo_2005.svg.png", Daiichi-TV
+http://csui.djtmewibu.com/DaiichiTV/index.m3u8
+#EXTINF:-1 group-title="Test", SATV
+http://csui.djtmewibu.com/satv/index.m3u8
+#EXTINF:-1 group-title="Test", SATV
+http://csui.djtmewibu.com/SATV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sbs_logo.svg/1280px-Sbs_logo.svg.png", SBS(○)
+http://csui.djtmewibu.com/sbs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sbs_logo.svg/1280px-Sbs_logo.svg.png", SBS
+http://csui.djtmewibu.com/SBS/index.m3u8
+#EXTINF:-1 group-title="Test", TV Shizuoka
+http://csui.djtmewibu.com/tvshizuka/index.m3u8
+#EXTINF:-1 group-title="Test", TV Shizuoka
+http://csui.djtmewibu.com/TVShizuka/index.m3u8
+#EXTINF:-1 group-title="Test", TV Shizuoka
+http://csui.djtmewibu.com/sut/index.m3u8
+#EXTINF:-1 group-title="Test", TV Shizuoka
+http://csui.djtmewibu.com/SUT/index.m3u8
+
+#EXTINF:-1 group-title="Test", FBC
+http://csui.djtmewibu.com/fbc/index.m3u8
+#EXTINF:-1 group-title="Test", FBC
+http://csui.djtmewibu.com/FBC/index.m3u8
+#EXTINF:-1 group-title="Test", Fukui TV
+http://csui.djtmewibu.com/fukuitv/index.m3u8
+#EXTINF:-1 group-title="Test", Fukui TV
+http://csui.djtmewibu.com/FukuiTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", KNB
+http://csui.djtmewibu.com/knb/index.m3u8
+#EXTINF:-1 group-title="Test", KNB
+http://csui.djtmewibu.com/KNB/index.m3u8
+#EXTINF:-1 group-title="Test", Tulip TV
+http://csui.djtmewibu.com/tuliptv/index.m3u8
+#EXTINF:-1 group-title="Test", Tulip TV
+http://csui.djtmewibu.com/TulipTV/index.m3u8
+#EXTINF:-1 group-title="Test", BBT
+http://csui.djtmewibu.com/bbt/index.m3u8
+#EXTINF:-1 group-title="Test", BBT
+http://csui.djtmewibu.com/BBT/index.m3u8
+
+#EXTINF:-1 group-title="Test", MBS
+http://csui.djtmewibu.com/mbs/index.m3u8
+#EXTINF:-1 group-title="Test", MBS
+http://csui.djtmewibu.com/MBS/index.m3u8
+#EXTINF:-1 group-title="Test", ABC
+http://csui.djtmewibu.com/abc/index.m3u8
+#EXTINF:-1 group-title="Test", ABC
+http://csui.djtmewibu.com/ABC/index.m3u8
+#EXTINF:-1 group-title="Test", TV Osaka
+http://csui.djtmewibu.com/tvo/index.m3u8
+#EXTINF:-1 group-title="Test", TV Osaka
+http://csui.djtmewibu.com/TVO/index.m3u8
+#EXTINF:-1 group-title="Test", TV Osaka
+http://csui.djtmewibu.com/tvosaka/index.m3u8
+#EXTINF:-1 group-title="Test", TV Osaka
+http://csui.djtmewibu.com/TVOsaka/index.m3u8
+#EXTINF:-1 group-title="Test", Kansai TV
+http://csui.djtmewibu.com/ktv/index.m3u8
+#EXTINF:-1 group-title="Test", Kansai TV
+http://csui.djtmewibu.com/KTV/index.m3u8
+#EXTINF:-1 group-title="Test", Kansai TV
+http://csui.djtmewibu.com/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Test", Kansai TV
+http://csui.djtmewibu.com/KansaiTV/index.m3u8
+#EXTINF:-1 group-title="Test", Yomiuri TV
+http://csui.djtmewibu.com/ytv/index.m3u8
+#EXTINF:-1 group-title="Test", Yomiuri TV
+http://csui.djtmewibu.com/YTV/index.m3u8
+#EXTINF:-1 group-title="Test", Yomiuri TV
+http://csui.djtmewibu.com/yomiuritv/index.m3u8
+#EXTINF:-1 group-title="Test", Yomiuri TV
+http://csui.djtmewibu.com/YomiuriTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", KBS Kyoto
+http://csui.djtmewibu.com/kbs/index.m3u8
+#EXTINF:-1 group-title="Test", KBS Kyoto
+http://csui.djtmewibu.com/KBS/index.m3u8
+#EXTINF:-1 group-title="Test", KBS Kyoto
+http://csui.djtmewibu.com/kbskyoto/index.m3u8
+#EXTINF:-1 group-title="Test", KBS Kyoto
+http://csui.djtmewibu.com/KBSKyoto/index.m3u8
+
+#EXTINF:-1 group-title="Test", Sun TV
+http://csui.djtmewibu.com/sun/index.m3u8
+#EXTINF:-1 group-title="Test", Sun TV
+http://csui.djtmewibu.com/SUN/index.m3u8
+#EXTINF:-1 group-title="Test", Sun TV
+http://csui.djtmewibu.com/suntv/index.m3u8
+#EXTINF:-1 group-title="Test", Sun TV
+http://csui.djtmewibu.com/SunTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", Wakayama TV
+http://csui.djtmewibu.com/wtv/index.m3u8
+#EXTINF:-1 group-title="Test", Wakayama TV
+http://csui.djtmewibu.com/WTV/index.m3u8
+#EXTINF:-1 group-title="Test", Wakayama TV
+http://csui.djtmewibu.com/wakayamatv/index.m3u8
+#EXTINF:-1 group-title="Test", Wakayama TV
+http://csui.djtmewibu.com/WakayamaTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", Nara TV
+http://csui.djtmewibu.com/naratv/index.m3u8
+#EXTINF:-1 group-title="Test", Nara TV
+http://csui.djtmewibu.com/NaraTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", BBC
+http://csui.djtmewibu.com/bbc/index.m3u8
+#EXTINF:-1 group-title="Test", BBC
+http://csui.djtmewibu.com/BBC/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC
+http://csui.djtmewibu.com/rcc/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rcc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/768px-Rcc_logo_2022.svg.png", RCC(○)
+http://csui.djtmewibu.com/RCC/index.m3u8
+#EXTINF:-1 group-title="Test", Hiroshima TV
+http://csui.djtmewibu.com/htv/index.m3u8
+#EXTINF:-1 group-title="Test", Hiroshima TV
+http://csui.djtmewibu.com/HTV/index.m3u8
+#EXTINF:-1 group-title="Test", Hiroshima TV
+http://csui.djtmewibu.com/hiroshimatv/index.m3u8
+#EXTINF:-1 group-title="Test", Hiroshima TV
+http://csui.djtmewibu.com/HiroshimaTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="home" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png", HOME(○)
+http://csui.djtmewibu.com/home/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="home" tvg-logo="https://i.postimg.cc/wTdtbHtx/logo-1.png", HOME
+http://csui.djtmewibu.com/HOME/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", TSS(○)
+http://csui.djtmewibu.com/tss/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", TSS
+http://csui.djtmewibu.com/TSS/index.m3u8
+
+#EXTINF:-1 group-title="Test", RNC
+http://csui.djtmewibu.com/rnc/index.m3u8
+#EXTINF:-1 group-title="Test", RNC
+http://csui.djtmewibu.com/RNC/index.m3u8
+#EXTINF:-1 group-title="Test", KSB
+http://csui.djtmewibu.com/ksb/index.m3u8
+#EXTINF:-1 group-title="Test", RSK
+http://csui.djtmewibu.com/rsk/index.m3u8
+#EXTINF:-1 group-title="Test", RSK
+http://csui.djtmewibu.com/RSK/index.m3u8
+#EXTINF:-1 group-title="Test", OHK
+http://csui.djtmewibu.com/ohk/index.m3u8
+#EXTINF:-1 group-title="Test", OHK
+http://csui.djtmewibu.com/OHK/index.m3u8
+
+#EXTINF:-1 group-title="Test", NKT
+http://csui.djtmewibu.com/nkt/index.m3u8
+#EXTINF:-1 group-title="Test", NKT
+http://csui.djtmewibu.com/NKT/index.m3u8
+#EXTINF:-1 group-title="Test", NKT
+http://csui.djtmewibu.com/nihonkaitv/index.m3u8
+#EXTINF:-1 group-title="Test", NKT
+http://csui.djtmewibu.com/NihonkaiTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bss_logo.svg/2560px-Bss_logo.svg.png", BSS(○)
+http://csui.djtmewibu.com/bss/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bss_logo.svg/2560px-Bss_logo.svg.png", BSS
+http://csui.djtmewibu.com/BSS/index.m3u8
+#EXTINF:-1 group-title="Test", TSK
+http://csui.djtmewibu.com/tsk/index.m3u8
+#EXTINF:-1 group-title="Test", TSK
+http://csui.djtmewibu.com/TSK/index.m3u8
+
+#EXTINF:-1 group-title="Test", tys
+http://csui.djtmewibu.com/tys/index.m3u8
+#EXTINF:-1 group-title="Test", tys
+http://csui.djtmewibu.com/TYS/index.m3u8
+#EXTINF:-1 group-title="Test", KRY
+http://csui.djtmewibu.com/kry/index.m3u8
+#EXTINF:-1 group-title="Test", KRY
+http://csui.djtmewibu.com/KRY/index.m3u8
+#EXTINF:-1 group-title="Test", yab
+http://csui.djtmewibu.com/yab/index.m3u8
+#EXTINF:-1 group-title="Test", yab
+http://csui.djtmewibu.com/YAB/index.m3u8
+
+#EXTINF:-1 group-title="Test", RNB
+http://csui.djtmewibu.com/rnb/index.m3u8
+#EXTINF:-1 group-title="Test", RNB
+http://csui.djtmewibu.com/RNB/index.m3u8
+#EXTINF:-1 group-title="Test", eat
+http://csui.djtmewibu.com/eat/index.m3u8
+#EXTINF:-1 group-title="Test", eat
+http://csui.djtmewibu.com/EAT/index.m3u8
+#EXTINF:-1 group-title="Test", itv
+http://csui.djtmewibu.com/itv/index.m3u8
+#EXTINF:-1 group-title="Test", itv
+http://csui.djtmewibu.com/ITV/index.m3u8
+#EXTINF:-1 group-title="Test", EBC
+http://csui.djtmewibu.com/ebc/index.m3u8
+#EXTINF:-1 group-title="Test", EBC
+http://csui.djtmewibu.com/EBC/index.m3u8
+#EXTINF:-1 group-title="Test", EBC
+http://csui.djtmewibu.com/tvehime/index.m3u8
+#EXTINF:-1 group-title="Test", EBC
+http://csui.djtmewibu.com/TVEhime/index.m3u8
+
+#EXTINF:-1 group-title="Test", JRT
+http://csui.djtmewibu.com/jrt/index.m3u8
+#EXTINF:-1 group-title="Test", JRT
+http://csui.djtmewibu.com/JRT/index.m3u8
+
+#EXTINF:-1 group-title="Test", RKC
+http://csui.djtmewibu.com/rkc/index.m3u8
+#EXTINF:-1 group-title="Test", RKC
+http://csui.djtmewibu.com/RKC/index.m3u8
+
+#EXTINF:-1 group-title="Test", KUTV
+http://csui.djtmewibu.com/kutv/index.m3u8
+#EXTINF:-1 group-title="Test", KUTV
+http://csui.djtmewibu.com/KUTV/index.m3u8
+#EXTINF:-1 group-title="Test", KUTV
+http://csui.djtmewibu.com/tvkochi/index.m3u8
+#EXTINF:-1 group-title="Test", KUTV
+http://csui.djtmewibu.com/TVKochi/index.m3u8
+
+#EXTINF:-1 group-title="Test", Kochi Sunsun TV
+http://csui.djtmewibu.com/kochisunsuntv/index.m3u8
+#EXTINF:-1 group-title="Test", Kochi Sunsun TV
+http://csui.djtmewibu.com/KochiSunsunTV/index.m3u8
+#EXTINF:-1 group-title="Test", Kochi Sunsun TV
+http://csui.djtmewibu.com/sunsuntv/index.m3u8
+#EXTINF:-1 group-title="Test", Kochi Sunsun TV
+http://csui.djtmewibu.com/SunsunTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", KBC
+http://csui.djtmewibu.com/kbc/index.m3u8
+#EXTINF:-1 group-title="Test", KBC
+http://csui.djtmewibu.com/KBC/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rkb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RKB_Mainichi_Broadcasting_logo_2005.svg/2560px-RKB_Mainichi_Broadcasting_logo_2005.svg.png", RKB(○)
+http://csui.djtmewibu.com/rkb/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="rkb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RKB_Mainichi_Broadcasting_logo_2005.svg/2560px-RKB_Mainichi_Broadcasting_logo_2005.svg.png", RKB
+http://csui.djtmewibu.com/RKB/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fbs_logo.svg/2560px-Fbs_logo.svg.png", FBS(○)
+http://csui.djtmewibu.com/fbs/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="fbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fbs_logo.svg/2560px-Fbs_logo.svg.png", FBS
+http://csui.djtmewibu.com/FBS/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ(○)
+http://csui.djtmewibu.com/tvq/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="tvq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2019_tvq_logo.svg/150px-2019_tvq_logo.svg.png", TVQ
+http://csui.djtmewibu.com/TVQ/index.m3u8
+#EXTINF:-1 group-title="Test", TNC
+http://csui.djtmewibu.com/tnc/index.m3u8
+#EXTINF:-1 group-title="Test", TNC
+http://csui.djtmewibu.com/TNC/index.m3u8
+
+#EXTINF:-1 group-title="Test", RKK
+http://csui.djtmewibu.com/rkk/index.m3u8
+#EXTINF:-1 group-title="Test", RKK
+http://csui.djtmewibu.com/RKK/index.m3u8
+#EXTINF:-1 group-title="Test", KKT
+http://csui.djtmewibu.com/kkt/index.m3u8
+#EXTINF:-1 group-title="Test", KKT
+http://csui.djtmewibu.com/KKT/index.m3u8
+#EXTINF:-1 group-title="Test", KAB
+http://csui.djtmewibu.com/kab/index.m3u8
+#EXTINF:-1 group-title="Test", KAB
+http://csui.djtmewibu.com/KAB/index.m3u8
+#EXTINF:-1 group-title="Test", TKU
+http://csui.djtmewibu.com/tku/index.m3u8
+#EXTINF:-1 group-title="Test", TKU
+http://csui.djtmewibu.com/TKU/index.m3u8
+#EXTINF:-1 group-title="Test", TKU
+http://csui.djtmewibu.com/tvkumamoto/index.m3u8
+#EXTINF:-1 group-title="Test", TKU
+http://csui.djtmewibu.com/TVKumamoto/index.m3u8
+
+#EXTINF:-1 group-title="Test", NBC
+http://csui.djtmewibu.com/nbc/index.m3u8
+#EXTINF:-1 group-title="Test", NBC
+http://csui.djtmewibu.com/NBC/index.m3u8
+#EXTINF:-1 group-title="Test", NIB
+http://csui.djtmewibu.com/nib/index.m3u8
+#EXTINF:-1 group-title="Test", NIB
+http://csui.djtmewibu.com/NIB/index.m3u8
+#EXTINF:-1 group-title="Test", NCC
+http://csui.djtmewibu.com/ncc/index.m3u8
+#EXTINF:-1 group-title="Test", NCC
+http://csui.djtmewibu.com/NCC/index.m3u8
+#EXTINF:-1 group-title="Test", KTN
+http://csui.djtmewibu.com/ktn/index.m3u8
+#EXTINF:-1 group-title="Test", KTN
+http://csui.djtmewibu.com/KTN/index.m3u8
+
+#EXTINF:-1 group-title="Test", MBC
+http://csui.djtmewibu.com/mbc/index.m3u8
+#EXTINF:-1 group-title="Test", MBC
+http://csui.djtmewibu.com/MBC/index.m3u8
+#EXTINF:-1 group-title="Test", KYT
+http://csui.djtmewibu.com/kyt/index.m3u8
+#EXTINF:-1 group-title="Test", KYT
+http://csui.djtmewibu.com/KYT/index.m3u8
+#EXTINF:-1 group-title="Test", KKB
+http://csui.djtmewibu.com/kkb/index.m3u8
+#EXTINF:-1 group-title="Test", KKB
+http://csui.djtmewibu.com/KKB/index.m3u8
+#EXTINF:-1 group-title="Test", KTS
+http://csui.djtmewibu.com/kts/index.m3u8
+#EXTINF:-1 group-title="Test", KTS
+http://csui.djtmewibu.com/KTS/index.m3u8
+#EXTINF:-1 group-title="Test", KTS
+http://csui.djtmewibu.com/kagoshimatv/index.m3u8
+#EXTINF:-1 group-title="Test", KTS
+http://csui.djtmewibu.com/KagoshimaTV/index.m3u8
+
+#EXTINF:-1 group-title="Test", UMK
+http://csui.djtmewibu.com/umk/index.m3u8
+#EXTINF:-1 group-title="Test", UMK
+http://csui.djtmewibu.com/UMK/index.m3u8
+#EXTINF:-1 group-title="Test", MRT
+http://csui.djtmewibu.com/mrt/index.m3u8
+#EXTINF:-1 group-title="Test", MRT
+http://csui.djtmewibu.com/MRT/index.m3u8
+
+#EXTINF:-1 group-title="Test", OBS
+http://csui.djtmewibu.com/obs/index.m3u8
+#EXTINF:-1 group-title="Test", OBS
+http://csui.djtmewibu.com/OBS/index.m3u8
+#EXTINF:-1 group-title="Test", TOS
+http://csui.djtmewibu.com/tos/index.m3u8
+#EXTINF:-1 group-title="Test", TOS
+http://csui.djtmewibu.com/TOS/index.m3u8
+#EXTINF:-1 group-title="Test", TOS
+http://csui.djtmewibu.com/tvoita/index.m3u8
+#EXTINF:-1 group-title="Test", TOS
+http://csui.djtmewibu.com/TVOita/index.m3u8
+#EXTINF:-1 group-title="Test", OAB
+http://csui.djtmewibu.com/oab/index.m3u8
+#EXTINF:-1 group-title="Test", OAB
+http://csui.djtmewibu.com/OAB/index.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS(○)
+http://csui.djtmewibu.com/sagatv/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS
+http://csui.djtmewibu.com/SagaTV/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS
+http://csui.djtmewibu.com/sts/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-id="sagatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sagatv_logo.svg/2560px-Sagatv_logo.svg.png", STS
+http://csui.djtmewibu.com/STS/index.m3u8
+
+#EXTINF:-1 group-title="Test", RBC
+http://csui.djtmewibu.com/rbc/index.m3u8
+#EXTINF:-1 group-title="Test", RBC
+http://csui.djtmewibu.com/RBC/index.m3u8
+#EXTINF:-1 group-title="Test", QAB
+http://csui.djtmewibu.com/qab/index.m3u8
+#EXTINF:-1 group-title="Test", QAB
+http://csui.djtmewibu.com/QAB/index.m3u8
+#EXTINF:-1 group-title="Test", OTV
+http://csui.djtmewibu.com/otv/index.m3u8
+#EXTINF:-1 group-title="Test", OTV
+http://csui.djtmewibu.com/OTV/index.m3u8
+#EXTINF:-1 group-title="Test", OTV
+http://csui.djtmewibu.com/okinawatv/index.m3u8
+#EXTINF:-1 group-title="Test", OTV
+http://csui.djtmewibu.com/OkinawaTV/index.m3u8
