@@ -901,10 +901,23 @@ http://csui.djtmewibu.com/bs11/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Not Stable)
 http://csui.djtmewibu.com/at-x/index.m3u8
 
+#2024/6/5
+
+#EXTINF:-1 group-title="Test" tvg-id="uxtv21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png", Niigata UX (Not Stable)
+http://csui.djtmewibu.com/ux21/index.m3u8
+
+#2024/6/15
+
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOW Prime (nekocdn)
+https://vnpt.nekocdn.xyz/hls/WOWOW_Prime/index.m3u8
+
 #YouTube LIVE
 
 #EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
 https://ythls-v2.onrender.com/channel/UCzeRR8rMI8IkjqGx_MFlUjQ.m3u8
+
+#EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
+https://ythls-v3.onrender.com/channel/UCzeRR8rMI8IkjqGx_MFlUjQ.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="tvkanazawa", テレビ金沢(YouTube LIVE)
 https://ythls.armelin.one/channel/UCzeRR8rMI8IkjqGx_MFlUjQ.m3u8
@@ -913,16 +926,25 @@ https://ythls.armelin.one/channel/UCzeRR8rMI8IkjqGx_MFlUjQ.m3u8
 https://ythls-v2.onrender.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="hab", HAB北陸朝日放送(YouTube LIVE)
+https://ythls-v3.onrender.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
+
+#EXTINF:-1 group-title="youtube", tvg-id="hab", HAB北陸朝日放送(YouTube LIVE)
 https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="mro", MRO北陸放送(YouTube LIVE)
 https://ythls-v2.onrender.com/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="mro", MRO北陸放送(YouTube LIVE)
+https://ythls-v3.onrender.com/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8
+
+#EXTINF:-1 group-title="youtube", tvg-id="mro", MRO北陸放送(YouTube LIVE)
 https://ythls.armelin.one/channel/UCF5te9Y8oBT7oVJNyQkhWWQ.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="ishikawatv", 石川テレビ(YouTube LIVE)
 https://ythls-v2.onrender.com/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
+
+#EXTINF:-1 group-title="youtube", tvg-id="ishikawatv", 石川テレビ(YouTube LIVE)
+https://ythls-v3.onrender.com/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
 
 #EXTINF:-1 group-title="youtube", tvg-id="ishikawatv", 石川テレビ(YouTube LIVE)
 https://ythls.armelin.one/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
@@ -1684,13 +1706,13 @@ http://csui.djtmewibu.com/NBS/index.m3u8
 http://csui.djtmewibu.com/teny/index.m3u8
 #EXTINF:-1 group-title="Test" tvg-id="TeNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/2560px-Teny_logo.svg.png", TeNY
 http://csui.djtmewibu.com/TeNY/index.m3u8
-#EXTINF:-1 group-title="Test", UX
+#EXTINF:-1 group-title="Test" tvg-id="uxtv21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png", Niigata UX
 http://csui.djtmewibu.com/ux/index.m3u8
-#EXTINF:-1 group-title="Test", UX
+#EXTINF:-1 group-title="Test" tvg-id="uxtv21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png", Niigata UX
 http://csui.djtmewibu.com/UX/index.m3u8
-#EXTINF:-1 group-title="Test", UX
+#EXTINF:-1 group-title="Test" tvg-id="uxtv21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png", Niigata UX(○)
 http://csui.djtmewibu.com/ux21/index.m3u8
-#EXTINF:-1 group-title="Test", UX
+#EXTINF:-1 group-title="Test" tvg-id="uxtv21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png", Niigata UX
 http://csui.djtmewibu.com/UX21/index.m3u8
 #EXTINF:-1 group-title="Test", BSN
 http://csui.djtmewibu.com/bsn/index.m3u8
