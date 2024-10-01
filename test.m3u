@@ -1150,6 +1150,8 @@ http://171.244.62.178/jptv2/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
 http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS 102(Sub channel)
 http://171.244.62.178/jptv2/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
+#EXTINF:-1 group-title="BS" tvg-id="bsp4k" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BSP4K
+http://171.244.62.178/jptv4/get.php?id=r9hDpT5e8Jfvc0UEuVN-1A==
 #EXTINF:-1 group-title="BS" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS Nippon TV
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
 #EXTINF:-1 group-title="BS" tvg-id="bsasahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi
@@ -1437,7 +1439,7 @@ http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
 http://r3jx.djtmewibu.com/hbc/index.m3u8
 #EXTINF:-1 group-title="Test", HBC
 http://r3jx.djtmewibu.com/HBC/index.m3u8
-#EXTINF:-1 group-title="Test", STV
+#EXTINF:-1 group-title="Test", STV(○)
 http://r3jx.djtmewibu.com/stv/index.m3u8
 #EXTINF:-1 group-title="Test", STV
 http://r3jx.djtmewibu.com/STV/index.m3u8
