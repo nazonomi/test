@@ -1080,6 +1080,10 @@ http://s9.itvlive.net:8080/YTV/tracks-v1a1/mono.m3u8
 http://vdo.itvlive.net:8080/NHKBS1/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS(s9)
 http://s9.itvlive.net:8080/NHKBS1/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K(vdo)
+http://vdo.itvlive.net:8080/NHKBS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K(s9)
+http://s9.itvlive.net:8080/NHKBS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV(vdo)
 http://vdo.itvlive.net:8080/BSNIHON/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS NTV(s9)
@@ -1112,6 +1116,19 @@ http://s9.itvlive.net:8080/WOWOW2/index.m3u8
 http://vdo.itvlive.net:8080/WOWOW3/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowowcinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOW Cinema(s9)
 http://s9.itvlive.net:8080/WOWOW3/index.m3u8
+
+#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://tinyurl.com/h25ep9xx", Fuji TV One(vdo)
+http://vdo.itvlive.net:8080/Fuji-ONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://tinyurl.com/h25ep9xx", Fuji TV One(s9)
+http://s9.itvlive.net:8080/Fuji-ONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fujitvtwo" tvg-logo="https://tinyurl.com/3jtmne46", Fuji TV Two(vdo)
+http://vdo.itvlive.net:8080/Fuji-Two/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fujitvtwo" tvg-logo="https://tinyurl.com/3jtmne46", Fuji TV Two(s9)
+http://s9.itvlive.net:8080/Fuji-Two/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X(vdo)
+http://vdo.itvlive.net:8080/AT-X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X(s9)
+http://s9.itvlive.net:8080/AT-X/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kanto" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK General Tokyo
 http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
@@ -1163,7 +1180,7 @@ http://171.244.62.178/jptv2/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
 http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS 102(Sub channel)
 http://171.244.62.178/jptv2/get.php?id=KQxwxJVMr_ML8ZvsMsi8uQ==
-#EXTINF:-1 group-title="BS" tvg-id="bsp4k" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BSP4K
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K
 http://171.244.62.178/jptv4/get.php?id=r9hDpT5e8Jfvc0UEuVN-1A==
 #EXTINF:-1 group-title="BS" tvg-id="bsntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS Nippon TV
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
